@@ -1,5 +1,5 @@
 # prog_est_prog12
-Autor : Andriks Imanol Ruiz Martínez, Fecha: 17/02/2022
+Autor : Andriks Imanol Ruiz Martínez, Fecha: 17/02/2022 <br>
 Escuela: Universidad del Valle de Mexico Campus Villahermosa <br>
 Materia: Programación Estructrada <br>
 Ciclo: 01/2022</p>
